@@ -3,7 +3,7 @@ I’m current working on a project involving data analysis and visualisation to 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amaan-ahmed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amaanahmed9136@gmail.com) 
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amaan-ahmed](https://www.linkedin.com/in/amaan-ahmed-50253b18a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amaanahmed9136@gmail.com) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
